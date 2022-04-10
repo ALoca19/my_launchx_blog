@@ -7,6 +7,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Hi!!
 
 Para mi la cultura de un profesional se basa en lo siguiente:
+
 -Union
 -Determinacion
 -Confianza
